@@ -1,0 +1,606 @@
+fileFormatVersion: 2
+guid: 6be2cdf73d27f40a69593bfff1063b53
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: pinsdaddy-cadavres_0
+    21300002: pinsdaddy-cadavres_1
+    21300004: pinsdaddy-cadavres_2
+    21300006: pinsdaddy-cadavres_3
+    21300008: pinsdaddy-cadavres_4
+    21300010: pinsdaddy-cadavres_5
+    21300012: pinsdaddy-cadavres_6
+    21300014: pinsdaddy-cadavres_7
+    21300016: pinsdaddy-cadavres_8
+    21300018: pinsdaddy-cadavres_9
+    21300020: pinsdaddy-cadavres_10
+    21300022: pinsdaddy-cadavres_11
+    21300024: pinsdaddy-cadavres_12
+    21300026: pinsdaddy-cadavres_13
+    21300028: pinsdaddy-cadavres_14
+    21300030: pinsdaddy-cadavres_15
+    21300032: pinsdaddy-cadavres_16
+    21300034: pinsdaddy-cadavres_17
+    21300036: pinsdaddy-cadavres_18
+    21300038: pinsdaddy-cadavres_19
+    21300040: pinsdaddy-cadavres_20
+    21300042: pinsdaddy-cadavres_21
+    21300044: pinsdaddy-cadavres_22
+    21300046: pinsdaddy-cadavres_23
+    21300048: pinsdaddy-cadavres_24
+    21300050: pinsdaddy-cadavres_25
+    21300052: pinsdaddy-cadavres_26
+    21300054: pinsdaddy-cadavres_27
+    21300056: pinsdaddy-cadavres_28
+    21300058: pinsdaddy-cadavres_29
+    21300060: pinsdaddy-cadavres_30
+    21300062: pinsdaddy-cadavres_31
+    21300064: pinsdaddy-cadavres_32
+    21300066: pinsdaddy-cadavres_33
+    21300068: pinsdaddy-cadavres_34
+    21300070: pinsdaddy-cadavres_35
+    21300072: pinsdaddy-cadavres_36
+    21300074: pinsdaddy-cadavres_37
+    21300076: pinsdaddy-cadavres_38
+    21300078: pinsdaddy-cadavres_39
+    21300080: pinsdaddy-cadavres_40
+    21300082: pinsdaddy-cadavres_41
+    21300084: pinsdaddy-cadavres_42
+    21300086: pinsdaddy-cadavres_43
+    21300088: pinsdaddy-cadavres_44
+    21300090: pinsdaddy-cadavres_45
+    21300092: pinsdaddy-cadavres_46
+    21300094: pinsdaddy-cadavres_47
+    21300096: pinsdaddy-cadavres_48
+    21300098: pinsdaddy-cadavres_49
+    21300100: pinsdaddy-cadavres_50
+    21300102: pinsdaddy-cadavres_51
+    21300104: pinsdaddy-cadavres_52
+    21300106: pinsdaddy-cadavres_53
+    21300108: pinsdaddy-cadavres_54
+    21300110: pinsdaddy-cadavres_55
+    21300112: pinsdaddy-cadavres_56
+    21300114: pinsdaddy-cadavres_57
+    21300116: pinsdaddy-cadavres_58
+    21300118: pinsdaddy-cadavres_59
+    21300120: pinsdaddy-cadavres_60
+    21300122: pinsdaddy-cadavres_61
+    21300124: pinsdaddy-cadavres_62
+    21300126: pinsdaddy-cadavres_63
+    21300128: pinsdaddy-cadavres_64
+    21300130: pinsdaddy-cadavres_65
+    21300132: pinsdaddy-cadavres_66
+    21300134: pinsdaddy-cadavres_67
+    21300136: pinsdaddy-cadavres_68
+    21300138: pinsdaddy-cadavres_69
+    21300140: pinsdaddy-cadavres_70
+    21300142: pinsdaddy-cadavres_71
+    21300144: pinsdaddy-cadavres_72
+    21300146: pinsdaddy-cadavres_73
+    21300148: pinsdaddy-cadavres_74
+    21300150: pinsdaddy-cadavres_75
+    21300152: pinsdaddy-cadavres_76
+    21300154: pinsdaddy-cadavres_77
+    21300156: pinsdaddy-cadavres_78
+    21300158: pinsdaddy-cadavres_79
+    21300160: pinsdaddy-cadavres_80
+    21300162: pinsdaddy-cadavres_81
+    21300164: pinsdaddy-cadavres_82
+    21300166: pinsdaddy-cadavres_83
+    21300168: pinsdaddy-cadavres_84
+    21300170: pinsdaddy-cadavres_85
+    21300172: pinsdaddy-cadavres_86
+    21300174: pinsdaddy-cadavres_87
+    21300176: pinsdaddy-cadavres_88
+    21300178: pinsdaddy-cadavres_89
+    21300180: pinsdaddy-cadavres_90
+    21300182: pinsdaddy-cadavres_91
+    21300184: pinsdaddy-cadavres_92
+    21300186: pinsdaddy-cadavres_93
+    21300188: pinsdaddy-cadavres_94
+    21300190: pinsdaddy-cadavres_95
+    21300192: pinsdaddy-cadavres_96
+    21300194: pinsdaddy-cadavres_97
+    21300196: pinsdaddy-cadavres_98
+    21300198: pinsdaddy-cadavres_99
+    21300200: pinsdaddy-cadavres_100
+    21300202: pinsdaddy-cadavres_101
+    21300204: pinsdaddy-cadavres_102
+    21300206: pinsdaddy-cadavres_103
+    21300208: pinsdaddy-cadavres_104
+    21300210: pinsdaddy-cadavres_105
+    21300212: pinsdaddy-cadavres_106
+    21300214: pinsdaddy-cadavres_107
+    21300216: pinsdaddy-cadavres_108
+    21300218: pinsdaddy-cadavres_109
+    21300220: pinsdaddy-cadavres_110
+    21300222: pinsdaddy-cadavres_111
+    21300224: pinsdaddy-cadavres_112
+    21300226: pinsdaddy-cadavres_113
+    21300228: pinsdaddy-cadavres_114
+    21300230: pinsdaddy-cadavres_115
+    21300232: pinsdaddy-cadavres_116
+    21300234: pinsdaddy-cadavres_117
+    21300236: pinsdaddy-cadavres_118
+    21300238: pinsdaddy-cadavres_119
+    21300240: pinsdaddy-cadavres_120
+    21300242: pinsdaddy-cadavres_121
+    21300244: pinsdaddy-cadavres_122
+    21300246: pinsdaddy-cadavres_123
+    21300248: pinsdaddy-cadavres_124
+    21300250: pinsdaddy-cadavres_125
+    21300252: pinsdaddy-cadavres_126
+    21300254: pinsdaddy-cadavres_127
+    21300256: pinsdaddy-cadavres_128
+    21300258: pinsdaddy-cadavres_129
+    21300260: pinsdaddy-cadavres_130
+    21300262: pinsdaddy-cadavres_131
+    21300264: pinsdaddy-cadavres_132
+    21300266: pinsdaddy-cadavres_133
+    21300268: pinsdaddy-cadavres_134
+    21300270: pinsdaddy-cadavres_135
+    21300272: pinsdaddy-cadavres_136
+    21300274: pinsdaddy-cadavres_137
+    21300276: pinsdaddy-cadavres_138
+    21300278: pinsdaddy-cadavres_139
+    21300280: pinsdaddy-cadavres_140
+    21300282: pinsdaddy-cadavres_141
+    21300284: pinsdaddy-cadavres_142
+    21300286: pinsdaddy-cadavres_143
+    21300288: pinsdaddy-cadavres_144
+    21300290: pinsdaddy-cadavres_145
+    21300292: pinsdaddy-cadavres_146
+    21300294: pinsdaddy-cadavres_147
+    21300296: pinsdaddy-cadavres_148
+    21300298: pinsdaddy-cadavres_149
+    21300300: pinsdaddy-cadavres_150
+    21300302: pinsdaddy-cadavres_151
+    21300304: pinsdaddy-cadavres_152
+    21300306: pinsdaddy-cadavres_153
+    21300308: pinsdaddy-cadavres_154
+    21300310: pinsdaddy-cadavres_155
+    21300312: pinsdaddy-cadavres_156
+    21300314: pinsdaddy-cadavres_157
+    21300316: pinsdaddy-cadavres_158
+    21300318: pinsdaddy-cadavres_159
+    21300320: pinsdaddy-cadavres_160
+    21300322: pinsdaddy-cadavres_161
+    21300324: pinsdaddy-cadavres_162
+    21300326: pinsdaddy-cadavres_163
+    21300328: pinsdaddy-cadavres_164
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pinsdaddy-cadavres_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7140f68b5b364222b3cdeab158c1fab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinsdaddy-cadavres_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 841aa928ed63f489ab19cd08885b3dc1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinsdaddy-cadavres_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d07d74d8386a64941b8d476b1fe3e120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinsdaddy-cadavres_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd4f5761080fe4dcfbe46c8eea645754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinsdaddy-cadavres_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acaddea9c93054ac2b4b9974ceefa381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinsdaddy-cadavres_5
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53ea9a4a007248e98ddcebfa5f153eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinsdaddy-cadavres_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797b55d301441452eb4ee9909d15fa9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinsdaddy-cadavres_7
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62bbdb753794449ad9ed93b5541dc9d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinsdaddy-cadavres_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19ef817466e74c17938ac97890a4fdb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinsdaddy-cadavres_9
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8b23b7c924f4171bcd013874d3b3c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinsdaddy-cadavres_10
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69038ee945abd49eb88dd9cc9eb2eae5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinsdaddy-cadavres_11
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56b29499b496440ca0221fe0a20ccbd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinsdaddy-cadavres_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01514ca6e36c6468aaf23f6b0ab8fa30
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinsdaddy-cadavres_13
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5981c609a64443df8dedf6e9842d241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinsdaddy-cadavres_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5c7508b5e5f478db3bd47a3490f7c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinsdaddy-cadavres_15
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918e78fad5408483b9b7287e3f79a766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 1e0caf9690d8a44f583b6c1e3430a8d1
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

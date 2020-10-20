@@ -1,0 +1,395 @@
+fileFormatVersion: 2
+guid: c7a250cf5949b448dae908982a6c6057
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ninetails__shift_sprite_sheet_by_ninetails2001_0
+    21300002: ninetails__shift_sprite_sheet_by_ninetails2001_1
+    21300004: ninetails__shift_sprite_sheet_by_ninetails2001_2
+    21300006: ninetails__shift_sprite_sheet_by_ninetails2001_3
+    21300008: ninetails__shift_sprite_sheet_by_ninetails2001_4
+    21300010: ninetails__shift_sprite_sheet_by_ninetails2001_5
+    21300012: ninetails__shift_sprite_sheet_by_ninetails2001_6
+    21300014: ninetails__shift_sprite_sheet_by_ninetails2001_7
+    21300016: ninetails__shift_sprite_sheet_by_ninetails2001_8
+    21300018: ninetails__shift_sprite_sheet_by_ninetails2001_9
+    21300020: ninetails__shift_sprite_sheet_by_ninetails2001_10
+    21300022: ninetails__shift_sprite_sheet_by_ninetails2001_11
+    21300024: ninetails__shift_sprite_sheet_by_ninetails2001_12
+    21300026: ninetails__shift_sprite_sheet_by_ninetails2001_13
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ninetails__shift_sprite_sheet_by_ninetails2001_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 123
+        width: 43
+        height: 32
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c6467ca01c74dbcb6205c566c32fc0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninetails__shift_sprite_sheet_by_ninetails2001_1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 122
+        width: 48
+        height: 32
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a361d9ea0767a4ac4beb898c9a5a4576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninetails__shift_sprite_sheet_by_ninetails2001_2
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 124
+        width: 38
+        height: 28
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6d1f715a37e4db797a533beccd723f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninetails__shift_sprite_sheet_by_ninetails2001_3
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 122
+        width: 64
+        height: 38
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a370a7069464477a0f8beaab3cdab0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninetails__shift_sprite_sheet_by_ninetails2001_4
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 121
+        width: 68
+        height: 39
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e330b933ea3b42bbbbeee1285430b9e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninetails__shift_sprite_sheet_by_ninetails2001_5
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 121
+        width: 60
+        height: 38
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1d9560455c34b2f9e906abae682438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninetails__shift_sprite_sheet_by_ninetails2001_6
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 24
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17407bb845df4bc1bb16dbb169ae45a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninetails__shift_sprite_sheet_by_ninetails2001_7
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 22
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c31922f9616b468ea04698d59f6b05a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninetails__shift_sprite_sheet_by_ninetails2001_8
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 21
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1888f4b6c8d6b4f11ac596542fe9a2db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninetails__shift_sprite_sheet_by_ninetails2001_10
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 19
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4562ec00bab4f3296b7b34eacd09bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninetails__shift_sprite_sheet_by_ninetails2001_11
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 22
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4cbeb0a074de427fb3c18d44b6508a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninetails__shift_sprite_sheet_by_ninetails2001_12
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 17
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1868124e9ca24589a49cbbffc737061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninetails__shift_sprite_sheet_by_ninetails2001_13
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 15
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29480ad934d4140639e77343f6fd09ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 65c2b475525e24a45a7cbe1813207084
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
