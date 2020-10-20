@@ -1,0 +1,114 @@
+﻿{
+  "sceneName": "Started",
+  "stories":
+  [
+    {
+      "id":"0",
+      "isQuest":false,
+      "isFinished":false,
+      "sentences": [
+        {
+          "name": "System",
+          "content": "默认系统没有对话 请设置对话条目 不能为0"
+        }
+        
+      ]
+    },
+    {
+      "id":"1",
+      "isQuest":false,
+      "isFinished":false,
+      "sentences": [
+        {
+          "name": "巫师玛丽",
+          "content": "这一锅毒豆浆要熬制多久呀?"
+        },
+        {
+          "name": "貂蝉",
+          "content": "你这是要给谁喝？"
+        },
+        {
+          "name": "巫师玛丽",
+          "content": "我还不能告诉你 除非你帮我买找一个人。！"
+        }
+      ]
+    },
+
+    {
+      "id":"2",
+      "isQuest":false,
+      "isFinished":false,
+      "sentences": [
+        {
+          "name": "巫师玛丽",
+          "content": "Someone will kill me I heard..wow"
+        },
+        {
+          "name": "貂蝉",
+          "content": "Amazing.. who who is "
+        },
+        {
+          "name": "巫师玛丽",
+          "content": "I will end him pain.."
+        }
+      ]
+    },
+    {
+      "id":"3",
+      "isQuest":false,
+      "isFinished":false,
+      "sentences": [
+        {
+          "name": "父亲",
+          "content": "女儿,爹爹对不住你,当今皇上帝辛.他嗜好喝酒，不理朝纲,残害忠良,听信谗言.蛮横跋扈. 整日放荡作乐，宠爱女人.后宫嫔妃无."
+        },
+        {
+          "name": "父亲",
+          "content": "如天下刚刚太平,他又开始在天下各都郡挑选妃子,之后纳入后宫日夜侍奉.但凡相貌气质,知书达理,温润如玉不论出身."
+        },
+        {
+          "name": "父亲",
+          "content": "每个村都要挑选100名女子作为候选.. 女儿爹不想你受尽痛苦, 你去和你娘亲做个告别 你还是快逃吧! .. 哎..."
+        }, {
+          "name": "貂蝉",
+          "content": "爹,女孩不想走..女孩离不开你们... 呜呜呜... "
+        }
+      ]
+    },
+    {
+      "id":"4",
+      "isQuest":true,
+      "isFinished":false,
+      "sentences": [
+        {
+          "name": "红拂女",
+          "content": "女儿,官兵就在来我们家的路上, 你快去房间拿点<color=red>值钱</color>的东西, 路上小心..."
+        },
+        {
+          "name": "红拂女",
+          "content": "这里有<color=red>100金币</color>,你路上留着用.."
+        },
+        {
+          "name": "貂蝉",
+          "content": "娘亲...."
+        }
+      ]
+    },
+    {
+      "id":"5",
+      "isQuest":true,
+      "isFinished":false,
+      "sentences": [
+        {
+          "name": "李德謇",
+          "content": "妹妹,你快逃吧,官兵就快要来了.家里爹娘有我照应,你就不必担心."
+        },
+        {
+          "name": "貂蝉",
+          "content": "哥哥..."
+        }
+      ]
+    }
+
+  ]
+}

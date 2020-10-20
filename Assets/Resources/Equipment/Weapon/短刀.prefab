@@ -1,0 +1,142 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1590727480756326}
+  m_IsPrefabAsset: 1
+--- !u!1 &1590727480756326
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4571535008390450}
+  - component: {fileID: 212667544907998288}
+  - component: {fileID: 114129163179926734}
+  m_Layer: 0
+  m_Name: "\u77ED\u5200"
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4571535008390450
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1590727480756326}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 93.98718, y: 304.89758, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114129163179926734
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1590727480756326}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe911b90dbad74335bcd4441b9b75b3c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  amount: 1
+  value: 200
+  itemCnName: "\u77ED\u5200"
+  itemEnName: knife
+  itemCnDescription: "\u4E00\u628A\u950B\u5229\u7684\u5C0F\u5200\u5177"
+  itemEnDescription: this is a sharp knife
+  uniqueId: 10001
+  itemTypes: 10000
+  ItemGrade: 0
+  belongTo: 0
+  boradProperty:
+    FinalDamage: 0
+    AttackValue: 3
+    DefendValue: 0
+    MaxHP: 0
+    MaxMP: 0
+    ElementEnhance: 0
+    HitCombo: 0
+    CritDamage: 0
+    IceDamage: 0
+    IceRate: 0
+    FireDamage: 0
+    FireRate: 0
+    EletricDamage: 0
+    EletricRate: 0
+    EletricExtraDamage: 0
+    EletricDur: 0
+    PoisonDamage: 0
+    PoisonRate: 0
+    BleedDamage: 2
+    BleedRate: 30
+    BleedDur: 2
+    StoneDamage: 0
+    StoneRate: 0
+    strength: 0
+    intellect: 0
+    luck: 0
+    magic: 0
+    gold: 200
+  icon: {fileID: 21300104, guid: ff21929c825ce414c9f10b91c71cda1d, type: 3}
+  Skills: 00000000
+  canUse: 1
+--- !u!212 &212667544907998288
+SpriteRenderer:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1590727480756326}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RenderingLayerMask: 4294967295
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 21300104, guid: ff21929c825ce414c9f10b91c71cda1d, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 0.10666667, y: 0.10666667}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0

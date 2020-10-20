@@ -1,0 +1,95 @@
+{
+  "enemies": [
+    {
+      "perfabs": "Citizen Zombie",
+      "level": 1,
+      "name": "Citizen Zombie",
+      "magic": 10,
+      "strength": 15,
+      "intellect": 2,
+      "luck": 3,
+      "gold": 2,
+      "stage":"well1",
+      "abilityCode":"0",
+      "use":true
+    },
+    {
+      "perfabs": "Corruption",
+      "level": 2,
+      "name": "Corruption",
+      "magic": 12,
+      "strength": 17,
+      "intellect": 2,
+      "luck": 4,
+      "gold": 3,
+      "stage":"well1",
+      "abilityCode":"0",
+      "use":true
+    },
+    {
+      "perfabs": "Captain Zombie",
+      "level": 3,
+      "name": "Captain Zombie",
+      "magic": 100,
+      "strength": 150,
+      "intellect": 20,
+      "luck": 3,
+      "gold": 4,
+      "stage":"well1",
+      "abilityCode":"0",
+      "use":true
+    },
+    {
+      "perfabs": "红依幼虫",
+      "level": 4,
+      "name": "红依幼虫",
+      "magic": 100,
+      "strength": 150,
+      "intellect": 20,
+      "luck": 13,
+      "gold": 4,
+      "stage":"well1",
+      "abilityCode":"0",
+      "use":true
+    },
+    {
+      "perfabs": "红依成虫",
+      "level": 2,
+      "name": "红依成虫",
+      "magic": 100,
+      "strength": 150,
+      "intellect": 20,
+      "luck": 3,
+      "gold": 4,
+      "stage":"well1",
+      "abilityCode":"0",
+      "use":true
+    },
+    {
+      "perfabs": "鸳鸯芈猴鼠",
+      "level": 2,
+      "name": "鸳鸯芈猴鼠",
+      "magic": 100,
+      "strength": 150,
+      "intellect": 20,
+      "luck": 3,
+      "gold": 4,
+      "stage":"well1",
+      "abilityCode":"0",
+      "use":true
+    },
+    {
+      "perfabs": "千年鼠精",
+      "level": 2,
+      "name": "千年鼠精",
+      "magic": 100,
+      "strength": 150,
+      "intellect": 20,
+      "luck": 3,
+      "gold": 4,
+      "stage":"well2",
+      "abilityCode":"0",
+      "use":false
+    }
+  ]
+}
